@@ -4,5 +4,5 @@ summary: 깃허브로 개인 포트폴리오 페이지를 제작
 tags:
   - Github, Portfolio
 date: 2025-10-26
-external_link: https://github.com/SiRung2/SiRung2.github.io/actions
+external_link: http://github.com
 ---
