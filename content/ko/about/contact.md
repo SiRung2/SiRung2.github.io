@@ -22,7 +22,7 @@ content:
     formspree:
       id:
     netlify:
-      # Enable CAPTCHA challenge to reduce spam?
+      # Enable CAPTCHA ch allenge to reduce spam?
       captcha: false
 
 design:
