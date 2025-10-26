@@ -14,7 +14,7 @@ design:
     padding: ["20px", "0", "20px", "0"]
 ---
 
-<!-- 카드 뷰 선택 버튼 -->
+
 <div class="view-selector mb-4">
   <button class="view-btn active" onclick="changeView('grid')">Grid View</button>
   <button class="view-btn" onclick="changeView('masonry')">Masonry View</button>
@@ -22,7 +22,7 @@ design:
   <button class="view-btn" onclick="changeView('timeline')">Timeline View</button>
 </div>
 
-<!-- 그리드 뷰 -->
+
 <div id="grid-view" class="card-view active">
   <div class="row">
     <div class="col-lg-4 col-md-6 mb-4">
@@ -82,13 +82,13 @@ design:
   </div>
 </div>
 
-<!-- 매슨리 뷰 -->
+
 <div id="masonry-view" class="card-view">
   <div class="masonry-container">
     <div class="masonry-item">
       <div class="card widget-card">
         <div class="card-body">
-          <h5 class="card-title">🎯 Goals</h5>
+          <h5 class="card-title"> Goals</h5>
           <p class="card-text">My goal is to contribute to 3 open source projects by 2026 and launch my own GPT API-based application.</p>
           <a href="/goal/" class="btn btn-outline-secondary">Learn More</a>
         </div>
@@ -142,7 +142,7 @@ design:
   </div>
 </div>
 
-<!-- 캐러셀 뷰 -->
+
 <div id="carousel-view" class="card-view">
   <div class="carousel-container">
     <div class="carousel-wrapper">
@@ -210,7 +210,7 @@ design:
   </div>
 </div>
 
-<!-- 타임라인 뷰 -->
+
 <div id="timeline-view" class="card-view">
   <div class="timeline-container">
     <div class="timeline-item">
@@ -328,10 +328,10 @@ let carouselInterval;
 function initCarousel() {
   if (carouselSlides.length === 0) return;
   
-  // 캐러셀 자동 전환 시작
+
   startCarouselAutoSlide();
   
-  // 마우스 호버 시 자동 전환 일시정지
+
   const carouselContainer = document.querySelector('.carousel-container');
   if (carouselContainer) {
     carouselContainer.addEventListener('mouseenter', stopCarouselAutoSlide);
@@ -342,7 +342,7 @@ function initCarousel() {
 function startCarouselAutoSlide() {
   carouselInterval = setInterval(() => {
     carouselNext();
-  }, 3000); // 3초마다 자동 전환
+  }, 3000);
 }
 
 function stopCarouselAutoSlide() {
@@ -383,21 +383,21 @@ function carouselPrev() {
   startCarouselAutoSlide();
 }
 
-// 매슨리 레이아웃 초기화
+
 function initMasonry() {
   const masonryContainer = document.querySelector('.masonry-container');
   if (!masonryContainer) return;
   
-  // 매슨리 아이템들의 높이를 동적으로 조정
+
   const masonryItems = document.querySelectorAll('.masonry-item');
   masonryItems.forEach((item, index) => {
-    // 랜덤한 높이를 주어 매슨리 효과 강화
+
     const randomHeight = Math.random() * 100 + 200;
     item.style.height = randomHeight + 'px';
   });
 }
 
-// 스크롤 애니메이션
+
 function initScrollAnimations() {
   const observerOptions = {
     threshold: 0.1,
@@ -413,7 +413,7 @@ function initScrollAnimations() {
     });
   }, observerOptions);
   
-  // 애니메이션할 요소들 관찰
+ 
   const animatedElements = document.querySelectorAll('.card, .timeline-item, .masonry-item');
   animatedElements.forEach(el => {
     el.style.opacity = '0';
@@ -423,7 +423,7 @@ function initScrollAnimations() {
   });
 }
 
-// 페이지 로드 시 초기화
+
 document.addEventListener('DOMContentLoaded', function() {
   initScrollAnimations();
 });

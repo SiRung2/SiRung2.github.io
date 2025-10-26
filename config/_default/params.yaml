@@ -12,7 +12,6 @@ appearance:
   font_size: L
   color_scheme: "green"
 
-# SEO
 
 marketing:
   seo:
@@ -76,7 +75,7 @@ locale:
   date_format: "Jan 2, 2006"
   time_format: "3:04 PM"
 
-# Site features
+
 
 features:
   syntax_highlighter:

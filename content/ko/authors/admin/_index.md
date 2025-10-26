@@ -18,12 +18,11 @@ organizations:
 #  url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: 전북대학교 컴퓨터공학부에 재학중인 김시현입니다. AI 개발자, EdTech 전문가, 오픈소스 기여자로 활동하고 있습니다.
+bio: 전북대학교 컴퓨터공학부에 재학중인 김시현입니다. AI 개발자, 게임개발, 백엔드에 관심을 두고 있습니다.
 
 interests:
   - 컴퓨터공학전공
   - AI 개발
-  - EdTech
   - 게임개발
   - 오픈소스
 
