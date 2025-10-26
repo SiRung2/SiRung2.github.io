@@ -3,7 +3,7 @@ widget: blank
 headless: false
 active: true
 weight: 25
-title: "전북대 김시현 포트폴리오 카드"
+title: "김시현 포트폴리오 카드"
 subtitle: "다양한 뷰 방식으로 정보를 확인하세요"
 
 design:
