@@ -41,15 +41,30 @@ interests:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-  # - icon: envelope
-  #   icon_pack: fas
-  #   link: "mailto:wksri100@gmail.com" # For a direct email link, use "mailto:test@example.org".
+  - icon: envelope
+    icon_pack: fas
+    link: "mailto:wksri100@gmail.com"
   - icon: github
     icon_pack: fab
     link: https://github.com/SiRung2/SiRung2.github.io
   - icon: instagram
     icon_pack: fab
     link: https://www.instagram.com/sirung_2/
+  - icon: linkedin
+    icon_pack: fab
+    link: https://linkedin.com/in/sihyeon-kim
+  - icon: twitter
+    icon_pack: fab
+    link: https://twitter.com/sihyeon_kim
+  - icon: youtube
+    icon_pack: fab
+    link: https://youtube.com/@sihyeonkim
+  - icon: discord
+    icon_pack: fab
+    link: https://discord.gg/sihyeon
+  - icon: stack-overflow
+    icon_pack: fab
+    link: https://stackoverflow.com/users/sihyeon-kim
 # Uncomment below for Github link
 #- icon: github
 #  icon_pack: fab
