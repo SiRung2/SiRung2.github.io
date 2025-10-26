@@ -38,9 +38,10 @@ header:
     show_logo: true
     logo:
       image:
-        filename: "media/logo.png"
+        filename: "media/logo.svg"
       link: "/"
       text: "💻"
+      image_darken: 0
     show_language: true
     show_day_night: true
     show_search: true
