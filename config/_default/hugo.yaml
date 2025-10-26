@@ -25,7 +25,7 @@ cascade:
 ############################
 
 defaultContentLanguage: ko
-hasCJKLanguage: true
+hasCJKLanguage: false
 defaultContentLanguageInSubdir: false
 removePathAccents: true
 
@@ -58,20 +58,8 @@ taxonomies:
   tag: tags
   category: categories
   author: authors
-# 검색 최적화를 위한 추가 설정
 markup:
-  goldmark:
-    renderer:
-      unsafe: true
-  highlight:
-    codeFences: true
-    guessSyntax: true
-    lineNos: true
-    style: github
-  tableOfContents:
-    endLevel: 3
-    ordered: false
-    startLevel: 2
+  _merge: deep
 related:
   threshold: 80
   includeNewer: true
@@ -91,13 +79,8 @@ sitemap:
 minify:
   _merge: deep
 
-# 검색 최적화 설정
+# SEO 최적화 설정
 params:
-  search:
-    enable: true
-    placeholder: "김시현, 전북대학교 검색..."
-    show_result_count: true
-    content_lang: ["ko"]
   seo:
     title: "김시현 - 컴퓨터공학부 포트폴리오 | AI 개발자"
     description: "전북대학교 컴퓨터공학부 김시현의 포트폴리오 사이트. AI 개발자, EdTech 전문가, 오픈소스 기여자. 김시현, 전북대학교 김시현, 컴퓨터공학부 김시현"
