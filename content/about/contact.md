@@ -29,11 +29,4 @@ design:
   columns: "1"
 ---
 
-<iframe
-  src="<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3234.1217515661183!2d127.13169261117869!3d35.84601802078993!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x35702369ead71b35%3A0xd36ad9820d4b74a!2z7KCE67aB64yA7ZWZ6rWQIOy7tO2TqO2EsOqzte2Vmeu2gA!5e0!3m2!1sko!2skr!4v1761438702888!5m2!1sko!2skr" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>"
-  width="100%"
-  height="400"
-  style="border:0;"
-  allowfullscreen=""
-  loading="lazy"
-></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3234.1217515661183!2d127.13169261117869!3d35.84601802078993!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x35702369ead71b35%3A0xd36ad9820d4b74a!2z7KCE67aB64yA7ZWZ6rWQIOy7tO2TqO2EsOqzte2Vmeu2gA!5e0!3m2!1sko!2skr!4v1761439155067!5m2!1sko!2skr" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
