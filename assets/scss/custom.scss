@@ -1,5 +1,54 @@
 /* Custom hover effects for buttons and links */
 
+/* Main page widget cards hover effect */
+.widget-card {
+  transition: all 0.3s ease;
+  border-radius: 15px;
+  overflow: hidden;
+  border: 1px solid #e9ecef;
+  background: #ffffff;
+}
+
+.widget-card:hover {
+  transform: translateY(-8px);
+  box-shadow: 0 20px 40px rgba(0, 0, 0, 0.15);
+  background: linear-gradient(135deg, #f8f9fa, #e9ecef);
+  border-color: #6c757d;
+}
+
+.widget-card .card-title {
+  transition: color 0.3s ease;
+}
+
+.widget-card:hover .card-title {
+  color: #495057;
+}
+
+.widget-card .btn {
+  transition: all 0.3s ease;
+}
+
+.widget-card:hover .btn {
+  background-color: #6c757d;
+  border-color: #6c757d;
+  color: white;
+  transform: scale(1.05);
+}
+
+/* Main page section hover effects */
+.home-section {
+  transition: all 0.3s ease;
+  border-radius: 10px;
+  padding: 20px;
+  margin: 10px 0;
+}
+
+.home-section:hover {
+  background: linear-gradient(135deg, #f1f3f4, #e8eaed);
+  transform: translateY(-3px);
+  box-shadow: 0 8px 25px rgba(0, 0, 0, 0.1);
+}
+
 /* Portfolio project cards hover effect */
 .portfolio-card {
   transition: transform 0.3s ease, box-shadow 0.3s ease;
