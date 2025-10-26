@@ -8,6 +8,6 @@ title: "💻 기술 스택"
 
 <div class="card">
   <div class="card-body">
-    <p>Python, TensorFlow, Git, Hugo</p>
+    <p>파이썬, c, c++, 리눅스, JAVA</p>
   </div>
 </div>

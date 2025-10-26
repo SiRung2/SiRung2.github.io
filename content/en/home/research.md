@@ -3,15 +3,15 @@ widget: blank
 headless: false
 active: true
 weight: 10
-title: "🔬 연구 주제"
+title: "🔬 관심 분야"
 ---
 
 <div class="card">
   <div class="card-body">
     <ul>
-      <li>Distributed Robotics</li>
-      <li>Mobile Computing</li>
-      <li>Programmable Matter</li>
+      <li>인공지능</li>
+      <li>게임개발</li>
+      <li>백엔드</li>
     </ul>
   </div>
 </div>

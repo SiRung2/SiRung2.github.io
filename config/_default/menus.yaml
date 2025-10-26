@@ -26,10 +26,9 @@ main:
     parent: project
     url: /project/project3/
     weight: 60
-  - name: 학력
-    url: /his/
+  - name: 진로/목표
+    url: /home/future/
     weight: 70
   - name: 기타
     url: /oth/
-    weight: 70
-      
+    weight: 80
