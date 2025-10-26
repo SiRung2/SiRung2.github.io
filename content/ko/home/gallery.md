@@ -1,58 +1,54 @@
 ---
-widget: gallery
+widget: blank
 headless: false
 active: true
 weight: 15
-title: "갤러리"
-subtitle: "Unsplash에서 가져온 아름다운 이미지들"
-
-content:
-  # Page type to display. E.g. project.
-  page_type: gallery
-
-  # Filter toolbar (optional).
-  # Add or remove as many filters (`filter_button` instances) as you like.
-  # To show all items, set `tag` to "*".
-  # To filter by a specific tag, set `tag` to an existing tag name.
-  # To remove the toolbar, delete the entire `filter_button` block.
-  filter_button:
-    - name: All
-      tag: "*"
-    - name: Technology
-      tag: Technology
-    - name: Nature
-      tag: Nature
-    - name: Abstract
-      tag: Abstract
-
-  # Default filter index (e.g. 0 corresponds to the first `filter_button` instance below).
-  filter_default: 0
-
-  # Gallery view
-  # Choose how many columns to display (1-4)
-  columns: "2"
-  # Choose how many rows to display (1-4)
-  rows: "2"
-  # Choose how much space between items (1-4)
-  spacing: "2"
-  # Choose how to crop images (1-4)
-  crop: "center"
+title: "Unsplash 이미지 갤러리"
+subtitle: "다양한 주제의 아름다운 이미지들"
 
 design:
-  # Choose how many columns the section has. Valid values: 1 or 2.
-  columns: "1"
-  # Choose a size for the section
-  size: "medium"
-  # Choose a background color, gradient, or image
+  columns: "2"
   background:
     color: "#f8f9fa"
-    gradient_start: "#f8f9fa"
-    gradient_end: "#e9ecef"
-    text_color_light: false
   spacing:
     padding: ["20px", "0", "20px", "0"]
 ---
 
-## Unsplash 이미지 갤러리
-
-다양한 주제의 아름다운 이미지들을 Unsplash에서 가져왔습니다.
+<div class="row">
+  <div class="col-md-6 mb-4">
+    <div class="card">
+      <img src="https://images.unsplash.com/photo-1518709268805-4e9042af2176?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80" class="card-img-top" alt="Technology">
+      <div class="card-body">
+        <h5 class="card-title">Technology & Innovation</h5>
+        <p class="card-text">Modern technology and digital innovation concepts.</p>
+      </div>
+    </div>
+  </div>
+  <div class="col-md-6 mb-4">
+    <div class="card">
+      <img src="https://images.unsplash.com/photo-1506905925346-21bda4d32df4?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80" class="card-img-top" alt="Nature">
+      <div class="card-body">
+        <h5 class="card-title">Natural Beauty</h5>
+        <p class="card-text">Beautiful natural landscapes that inspire creativity.</p>
+      </div>
+    </div>
+  </div>
+  <div class="col-md-6 mb-4">
+    <div class="card">
+      <img src="https://images.unsplash.com/photo-1541701494587-cb58502866ab?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80" class="card-img-top" alt="Abstract">
+      <div class="card-body">
+        <h5 class="card-title">Abstract Art</h5>
+        <p class="card-text">Abstract artistic compositions that spark imagination.</p>
+      </div>
+    </div>
+  </div>
+  <div class="col-md-6 mb-4">
+    <div class="card">
+      <img src="https://images.unsplash.com/photo-1461749280684-dccba630e2f6?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80" class="card-img-top" alt="Programming">
+      <div class="card-body">
+        <h5 class="card-title">Programming & Code</h5>
+        <p class="card-text">The world of programming and software development.</p>
+      </div>
+    </div>
+  </div>
+</div>

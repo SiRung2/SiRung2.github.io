@@ -40,6 +40,7 @@ header:
       image:
         filename: "media/logo.png"
       link: "/"
+      text: "💻"
     show_language: true
     show_day_night: true
     show_search: true

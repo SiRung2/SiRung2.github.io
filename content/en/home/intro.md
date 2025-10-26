@@ -18,7 +18,7 @@ author: admin
 #  css_class: fullscreen
 ---
 
-👋 안녕하세요! 저는 전북대학교 컴퓨터공학부에 재학중인 김시현입니다.
+👋 Hello! I am SiHyeon Kim, a student in the Department of Computer Engineering at Jeonbuk National University.
 {style="font-size: 1.2rem; background: #FFB76B; background: linear-gradient(to right, #FFB76B 0%, #FFA73D 30%, #FF7C00 60%, #FF7F04 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent;"}
 
-[자기소개(클릭)](/about/)
+[About Me (Click)](/about/)
