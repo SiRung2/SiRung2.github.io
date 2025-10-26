@@ -36,10 +36,10 @@ en:
         url: /project/project3/
         weight: 60
       - name: Career/Goals
-        url: /home/goal/
+        url: /goal/
         weight: 70
       - name: Others
-        url: /home/hobby/
+        url: /hobby/
         weight: 80
 # en:
 #   languageCode: en-us
