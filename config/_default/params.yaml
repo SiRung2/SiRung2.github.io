@@ -35,7 +35,10 @@ header:
   navbar:
     enable: true
     align: r
-    show_logo: false
+    show_logo: true
+    logo:
+      image: "media/logo.png"
+      link: "/"
     show_language: true
     show_day_night: true
     show_search: true
