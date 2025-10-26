@@ -10,19 +10,22 @@ main:
   - name: About
     url: about/
     weight: 20
-  - name: project
+  - name: 프로젝트
     identifier: project
     url: project/
     weight: 30
-  - name: Project1
+  - name: 프로젝트1
     parent: project
     url: /project/project1/
     weight: 40
-  - name: Project2
-    parent: Project
+  - name: 프로젝트2
+    parent: project
     url: /project/project2/
     weight: 50
-  - name: Project3
+  - name: 프로젝트3
     parent: project
     url: /project/project3/
     weight: 60
+  - name: 학력
+    url: /education/
+    weight:
