@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://sirung2.github.io/sitemap.xml
+
+# Keywords for SEO
+# 전북대학교, 김시현, 컴퓨터공학부, 포트폴리오, AI 개발자, EdTech, 오픈소스

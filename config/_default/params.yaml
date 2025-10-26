@@ -18,9 +18,9 @@ marketing:
   seo:
     site_type: Person
     local_business_type: ""
-    org_name: ""
-    description: "A highly-customizable Hugo blog theme powered by Wowchemy website builder."
-    twitter: "GetResearchDev"
+    org_name: "전북대학교"
+    description: "전북대학교 컴퓨터공학부 김시현의 포트폴리오 사이트. AI 개발자, EdTech 전문가, 오픈소스 기여자."
+    twitter: "SiHyeonKim"
   analytics:
     google_analytics: ""
     baidu_tongji: ""

@@ -7,10 +7,14 @@ ko:
   languageName: "한국어"
   weight: 1
   contentDir: "content/ko"
+  title: "전북대학교 김시현 - 컴퓨터공학부 포트폴리오"
+  description: "전북대학교 컴퓨터공학부 김시현의 포트폴리오 사이트. AI 개발자, EdTech 전문가, 오픈소스 기여자."
 en:
   languageName: "English"
   weight: 2
   contentDir: "content/en"
+  title: "SiHyeon Kim - Jeonbuk National University Computer Engineering Portfolio"
+  description: "Portfolio website of SiHyeon Kim, Computer Engineering student at Jeonbuk National University. AI Developer, EdTech Expert, Open Source Contributor."
   menu:
     main:
       - name: Home

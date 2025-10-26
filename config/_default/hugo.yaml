@@ -3,7 +3,7 @@
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: 김시현의 포트폴리오 # Website name
+title: "전북대학교 김시현 - 컴퓨터공학부 포트폴리오" # Website name
 baseURL: "https://sirung2.github.io/" # Website URL
 
 ############################
