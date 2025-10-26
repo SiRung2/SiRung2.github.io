@@ -10,7 +10,7 @@ appearance:
   theme_night: custom
   font: minimal
   font_size: L
-  color_scheme: "gray"
+  color_scheme: "green"
 
 # SEO
 
@@ -19,7 +19,17 @@ marketing:
     site_type: Person
     local_business_type: ""
     org_name: "전북대학교"
-    description: "전북대학교 컴퓨터공학부 김시현의 포트폴리오 사이트. AI 개발자, EdTech 전문가, 오픈소스 기여자."
+    description: "전북대학교 컴퓨터공학부 김시현의 포트폴리오 사이트. AI 개발자, EdTech 전문가, 오픈소스 기여자. 전북대 김시현, 전북대학교 김시현, 컴퓨터공학부 김시현"
+    keywords:
+      [
+        "전북대 김시현",
+        "전북대학교 김시현",
+        "컴퓨터공학부 김시현",
+        "김시현 포트폴리오",
+        "전북대 AI 개발자",
+        "EdTech 전문가",
+        "오픈소스 기여자",
+      ]
     twitter: "SiHyeonKim"
   analytics:
     google_analytics: ""

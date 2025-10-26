@@ -3,7 +3,7 @@
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: "전북대학교 김시현 - 컴퓨터공학부 포트폴리오" # Website name
+title: "전북대 김시현 - 컴퓨터공학부 포트폴리오 | AI 개발자" # Website name
 baseURL: "https://sirung2.github.io/" # Website URL
 
 ############################
@@ -73,5 +73,32 @@ security:
   _merge: deep
 sitemap:
   _merge: deep
+  changefreq: monthly
+  priority: 0.5
+  filename: sitemap.xml
 minify:
   _merge: deep
+
+# SEO 최적화 설정
+params:
+  seo:
+    title: "전북대 김시현 - 컴퓨터공학부 포트폴리오 | AI 개발자"
+    description: "전북대학교 컴퓨터공학부 김시현의 포트폴리오 사이트. AI 개발자, EdTech 전문가, 오픈소스 기여자. 전북대 김시현, 전북대학교 김시현, 컴퓨터공학부 김시현"
+    keywords:
+      [
+        "전북대 김시현",
+        "전북대학교 김시현",
+        "컴퓨터공학부 김시현",
+        "김시현 포트폴리오",
+        "전북대 AI 개발자",
+        "EdTech 전문가",
+        "오픈소스 기여자",
+      ]
+    author: "김시현"
+    twitter:
+      site: "@SiHyeonKim"
+      creator: "@SiHyeonKim"
+    openGraph:
+      type: website
+      locale: ko_KR
+      site_name: "전북대 김시현 포트폴리오"
