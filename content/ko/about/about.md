@@ -12,7 +12,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 10
 
-title: Hello
+title: 김시현 소개
 
 # Choose the user profile to display
 # This should be the username (folder name) of a profile in your `content/authors/` folder.
@@ -28,3 +28,11 @@ background:
   image_size: cover
   text_color_light: true
 ---
+
+안녕하세요! 저는 **김시현**입니다.
+
+**전북대학교** 컴퓨터공학부에 재학 중인 **김시현**으로, AI 개발자, EdTech 전문가, 오픈소스 기여자로 활동하고 있습니다.
+
+**김시현**은 전북대학교에서 컴퓨터공학을 전공하며, 다양한 프로젝트와 연구 활동을 진행하고 있습니다. 특히 인공지능과 교육 기술 분야에 깊은 관심을 가지고 있으며, 지속적인 학습과 성장을 추구합니다.
+
+**전북대학교 김시현**으로 검색하시면 이 포트폴리오 사이트를 찾으실 수 있습니다.
