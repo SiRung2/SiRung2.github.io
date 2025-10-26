@@ -1,5 +1,4 @@
 ---
-image: "static\images\project1.png"
 title: "사이트 제작 프로젝트"
 date: 2023-06-01
 description: "개인 포트폴리오를 게시할 사이트 제작"
