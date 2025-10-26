@@ -1,6 +1,6 @@
 ---
 # Display name
-title: 김시현
+title: SiHyeon Kim
 
 # Is this the primary user of the site?
 superuser: true
@@ -14,15 +14,15 @@ status:
 
 # Organizations/Affiliations
 organizations:
-  - name: 전북대학교
+  - name: Jeonbuk National University
 #  url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: 안녕하세요. 저는 전북대학교 컴퓨터공학부에 재학중인 김시현입니다.
+bio: Hello. I am SiHyeon Kim, a student in the Department of Computer Engineering at Jeonbuk National University.
 
 interests:
-  - 컴퓨터공학전공
-  - 게임개발
+  - Computer Engineering
+  - Game Development
 
 #education:
 #  courses:
@@ -65,10 +65,10 @@ social:
 #email: ""
 ---
 
-안녕하세요! 전북대학교 컴퓨터공학부에 재학 중인 김시현입니다. 문제를 구조적으로 쪼개고 실험으로 검증하는 과정을 좋아합니다. 자료구조·알고리즘을 바탕으로 사용자가 체감하는 성능과 안정성을 올리는 데 관심이 많습니다. 팀 프로젝트에서는 명확한 이슈 관리와 코드 리뷰, 자동화된 테스트/배포(CI/CD)를 지향합니다. 현재는 [관심 분야: 예) 백엔드 아키텍처·클라우드 운영·LLM 활용]를 중심으로 프로젝트를 진행하며, 작은 개선이라도 꾸준히 누적하는 개발자를 목표로 하고 있습니다.
+Hello! I am SiHyeon Kim, a student in the Department of Computer Engineering at Jeonbuk National University. I enjoy breaking down problems structurally and verifying them through experimentation. I am very interested in improving user-perceived performance and stability based on data structures and algorithms. In team projects, I aim for clear issue management, code reviews, and automated testing/deployment (CI/CD). Currently, I am working on projects focused on [areas of interest: e.g., backend architecture, cloud operations, LLM utilization], and I aim to be a developer who consistently accumulates even small improvements.
 
 {{< icon name="download" pack="fas" >}} {{< staticref "uploads/resume.pdf" "newtab" >}}Download{{< /staticref >}} my resumé as a PDF.
 
-## 오시는 길
+## Location
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3234.1217515661183!2d127.13169261117869!3d35.84601802078993!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x35702369ead71b35%3A0xd36ad9820d4b74a!2z7KCE67aB64yA7ZWZ6rWQIOy7tO2TqO2EsOqzte2Vmeu2gA!5e0!3m2!1sko!2skr!4v1761439155067!5m2!1sko!2skr" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>

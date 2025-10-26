@@ -1,6 +1,6 @@
 ---
 title: "Interests · Career · Goals"
-summary: "Introducing SiRung's areas of interest and future goals."
+summary: "Introducing SiHyeon's areas of interest and future goals."
 date: 2025-10-26
 type: page
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Hobbies"
-summary: "Introduction to SiRung's hobbies and leisure activities"
+summary: "Introduction to SiHyeon's hobbies and leisure activities"
 type: page
 ---
 
