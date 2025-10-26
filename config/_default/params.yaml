@@ -37,7 +37,7 @@ header:
     align: r
     show_logo: true
     logo:
-      image: "static/media/logo.png"
+      image: "assets/media/icons/logo.png"
       link: "/"
     show_language: true
     show_day_night: true
