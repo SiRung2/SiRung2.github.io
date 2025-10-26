@@ -27,5 +27,9 @@ main:
     url: /project/project3/
     weight: 60
   - name: 학력
-    url: /education/
-    weight:
+    url: /his/
+    weight: 70
+  - name: 기타
+    url: /oth/
+    weight: 70
+      
