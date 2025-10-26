@@ -27,8 +27,8 @@ main:
     url: /project/project3/
     weight: 60
   - name: 진로/목표
-    url: /home/future/
+    url: /home/goal/
     weight: 70
   - name: 기타
-    url: /oth/
+    url: /home/hobby/
     weight: 80

@@ -1,23 +1,26 @@
 ---
-title: "관심사 · 진로 · 목표"
-summary: "김시현의 관심 분야와 앞으로의 목표를 소개합니다."
+title: "Interests · Career · Goals"
+summary: "Introducing SiRung's areas of interest and future goals."
 date: 2025-10-26
 type: page
 ---
 
-## 🎯 나의 방향성
+## 🎯 My Direction
 
-### 💡 관심사
-- 인공지능 (특히 생성형 AI와 음성 인식)
-- 웹 개발과 사용자 경험 디자인
-- 교육 기술 (EdTech)
+### 💡 Interests
 
-### 🔭 진로 희망
-- 인공지능 개발자
-- 기술기반 교육 플랫폼 창업
-- 글로벌 테크 기업 연구원
+- Artificial Intelligence (especially Generative AI and Speech Recognition)
+- Web Development and User Experience Design
+- Educational Technology (EdTech)
 
-### 🌱 목표
-- 2026년까지 오픈소스 프로젝트 3개 기여
-- GPT API 기반 앱 직접 런칭하기
-- 영어/일본어 기술 문서 독해 가능 수준 도달하기
+### 🔭 Career Aspirations
+
+- AI Developer
+- EdTech Platform Startup
+- Research Engineer at Global Tech Company
+
+### 🌱 Goals
+
+- Contribute to 3 open source projects by 2026
+- Launch my own GPT API-based application
+- Reach proficiency level in reading English/Japanese technical documentation

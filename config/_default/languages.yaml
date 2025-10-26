@@ -11,6 +11,36 @@ en:
   languageName: "English"
   weight: 2
   contentDir: "content/en"
+  menu:
+    main:
+      - name: Home
+        url: /
+        weight: 10
+      - name: About
+        url: about/
+        weight: 20
+      - name: Projects
+        identifier: project
+        url: project/
+        weight: 30
+      - name: Project 1
+        parent: project
+        url: /project/project1/
+        weight: 40
+      - name: Project 2
+        parent: project
+        url: /project/project2/
+        weight: 50
+      - name: Project 3
+        parent: project
+        url: /project/project3/
+        weight: 60
+      - name: Career/Goals
+        url: /home/goal/
+        weight: 70
+      - name: Others
+        url: /home/hobby/
+        weight: 80
 # en:
 #   languageCode: en-us
 # Uncomment for multi-lingual sites, and move English content into `en` sub-folder.

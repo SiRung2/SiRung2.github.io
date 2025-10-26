@@ -1,24 +1,28 @@
 ---
-title: "취미 생활"
-summary: "김시현의 취미와 여가 활동 소개"
+title: "Hobbies"
+summary: "Introduction to SiRung's hobbies and leisure activities"
 type: page
 ---
 
-## 🧘‍♂️ 취미 생활
+## 🧘‍♂️ Hobbies
 
-### 🎵 음악 감상
-- 다양한 장르의 음악을 즐기며 집중력을 높입니다.  
-- 특히 재즈, 클래식, lo-fi 힙합을 좋아합니다.
+### 🎵 Music Listening
 
-### 🎮 게임
-- 다양한 장르의 게임을 즐겨합니다. 
+- I enjoy various genres of music to enhance my focus.
+- I particularly love jazz, classical, and lo-fi hip hop.
 
-### 🧗 운동
-- 주기적으로 헬스와 수영을 하며 체력 관리를 하고 있습니다.
+### 🎮 Gaming
 
-### 베이스 연주
-- 취미로 베이스를 연습하고 있습니다.
+- I enjoy playing games of various genres.
+
+### 🧗 Exercise
+
+- I regularly work out at the gym and swim to maintain my physical fitness.
+
+### Bass Playing
+
+- I practice bass guitar as a hobby.
 
 ---
 
-취미는 삶의 균형을 잡아주는 중요한 부분이라 생각합니다. 
+I believe hobbies are an important part of maintaining balance in life.
