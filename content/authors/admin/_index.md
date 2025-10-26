@@ -14,15 +14,15 @@ status:
 
 # Organizations/Affiliations
 organizations:
-- name: 전북대학교
+  - name: 전북대학교
 #  url: ""
 
 # Short bio (displayed in user profile at end of posts)
 bio: 안녕하세요. 저는 전북대학교 컴퓨터공학부에 재학중인 김시현입니다.
 
 interests:
-- 컴퓨터공학전공
-- 게임개발
+  - 컴퓨터공학전공
+  - 게임개발
 
 #education:
 #  courses:
@@ -43,13 +43,13 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: "about/#contact" # For a direct email link, use "mailto:test@example.org".
-  - icon: twitter
+    link: "mailto:wksri100@gmail.com" # For a direct email link, use "mailto:test@example.org".
+  - icon: github
     icon_pack: fab
-    link: https://twitter.com/wowchemy
+    link: https://github.com/SiRung2/SiRung2.github.io
   - icon: instagram
     icon_pack: fab
-    link: https://instagram.com/geocushen
+    link: https://www.instagram.com/sirung_2/
 # Uncomment below for Github link
 #- icon: github
 #  icon_pack: fab
