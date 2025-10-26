@@ -7,7 +7,6 @@ title: "디스코드 봇 제작"
 date: 2024-03-02
 description: "디스코드에 서버 관리용 봇을 제작했습니다."
 tags: ["Discord", "Bot"]
-image: "media/project2.png"
 ---
 
 
