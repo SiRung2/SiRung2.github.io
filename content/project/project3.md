@@ -1,4 +1,5 @@
 ---
+image: "static\images\project3.png"
 title: "AI 채보 프로그램 제작"
 date: 2025-04-18
 description: "인공지능을 이용한 채보 프로그램"
